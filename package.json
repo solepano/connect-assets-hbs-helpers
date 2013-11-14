@@ -8,9 +8,6 @@
     },
     "author": "William Coates",
     "license": "MIT",
-    "dependencies": {
-        "express-hbs": ">= 0.2.0"
-    },
     "repository" :{
         "type" : "git",
         "url" : "https://github.com/williamcoates/connect-assets-hbs-helpers"
